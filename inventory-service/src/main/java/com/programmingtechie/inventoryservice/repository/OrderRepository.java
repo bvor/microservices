@@ -1,6 +1,6 @@
-package com.programmingtechie.orderservice.repository;
+package com.programmingtechie.inventoryservice.repository;
 
-import com.programmingtechie.orderservice.model.Order;
+import com.programmingtechie.inventoryservice.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

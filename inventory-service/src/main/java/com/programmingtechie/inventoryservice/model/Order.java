@@ -1,4 +1,4 @@
-package com.programmingtechie.orderservice.model;
+package com.programmingtechie.inventoryservice.model;
 
 
 import jakarta.persistence.CascadeType;

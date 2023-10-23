@@ -18,7 +18,7 @@
 	<modules>
 		<module>inventory-service</module>
 		<module>order-service</module>
-		<module>postman-service</module>
+<!--		<module>postman-service</module>-->
 		<module>product-service</module>
 	</modules>
 	<properties>
